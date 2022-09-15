@@ -1,4 +1,5 @@
-# hello-world
-First github repo - test
+# Learning python
 
-Learning to make edits here :) 
+Goal is to continue learning python for fun and creative projects while also learn to automate security/IT related tasks. 
+
+
